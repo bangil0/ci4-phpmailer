@@ -1,3 +1,5 @@
+# ci4-phpmailer
+Kirim Email Dengan SMTP GMAIL Menggunakan PHP Mailer CodeIgniter 4
 
 > https://cacan.id/kirim-email-dengan-smtp-gmail-menggunakan-php-mailer-codeigniter-4
 
